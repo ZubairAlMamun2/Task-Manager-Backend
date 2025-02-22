@@ -1,10 +1,10 @@
 # Task Management App
 
-## Short Description
+## Description
 This is a task management web application built with React. The app allows users to view, update, delete, and categorize tasks into different sections: To-Do, In Progress, and Done. Tasks can be reordered through drag-and-drop functionality. The app communicates with a backend API for data persistence and updates.
 
 ## Live Links
-- [Live Demo](http://your-live-link-here.com) *(replace with your actual live demo link)*
+- [Live Demo](https://task-manager-1971.netlify.app/)
 
 ## Dependencies
 - **React**: A JavaScript library for building user interfaces.
@@ -16,7 +16,7 @@ This is a task management web application built with React. The app allows users
 ## Installation Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/ZubairAlMamun2/Task-Manager-Backend
    cd your-repository-name
    npm install
    npm start
